@@ -1,4 +1,4 @@
-# 🛒 E-Com Retail Billing Application
+# 🛒 SpringBoot- E-Com Retail Billing Application
 
 This is a full-stack **Retail Billing Application** developed for a real-world retail client. It offers a complete billing and inventory management solution, featuring a responsive UI, real-time updates, and image handling.
 
