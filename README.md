@@ -26,7 +26,8 @@ This is a full-stack **Retail Billing Application** developed for a real-world r
 
 ### Backend
 - Spring Boot  
-- Spring Data JPA  
+- Spring Data JPA
+- Spring Security
 - MySQL
 
 ### Build & Storage
